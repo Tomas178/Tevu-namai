@@ -1,5 +1,4 @@
-# Tevu-namai
-Mano tėvų namų ūkio svetainė
+# Mano tėvų namų ūkio svetainė
 
 ## Pradinis Puslapis
 ![Alt text](Foto/Pradinio_Puslapio_Foto.png)

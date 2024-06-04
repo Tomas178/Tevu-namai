@@ -10,7 +10,7 @@
 <img src="Foto/Sildymas/Vieno_Is_Kambariu_Temperaturos_Grafikas.png" alt="Alt text" width="500" height="500">
 
 ## Orų Stotelės Puslapis
-<img src="Foto/Oru_Stotele/Oru_Stotele_Pradinis_Puslapis.png" alt="Alt text" width="500" height="500">
+<img src="Foto/Oru_Stotele/Oru_Stotele_Pradinis_Puslapis.png" alt="Alt text" width="650" height="500">
 <img src="Foto/Oru_Stotele/Oru_Stotele_Pradinis_Puslapis2.png" alt="Alt text" width="500" height="500">
 
 ### Orų stebėjimo grafikai

@@ -19,3 +19,9 @@
 
 ### Orų stebėjimo ataskaitos
 <img src="Foto/Oru_Stotele/Menesio_Ataskaitos.png" alt="Alt text" width="650" height="500">
+
+## Saulės Elektrinės Puslapis
+<img src="Foto/Saules_Elektrine/Pradinis_Puslapis.png" alt="Alt text" width="650" height="500">
+
+### Saulės Elektrinės Mėnesio ataskaita
+<img src="Foto/Saules_Elektrine/Birzelio_Menesio_Ataskaita.png" alt="Alt text" width="650" height="500">
